@@ -1,0 +1,21 @@
+{
+  "name": "zservices-web",
+  "homepage": "www.zservices.tech/zservices-web2",
+  "version": "0.1.0",
+  "description": "A simple starter to get up and developing quickly with Gridsome",
+  "author": "teleportHQ",
+  "private": true,
+  "scripts": {
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "dangerous-html": "0.1.11",
+    "gh-pages": "^5.0.0",
+    "gridsome": "^0.7.0"
+  },
+  "devDependencies": {}
+}
