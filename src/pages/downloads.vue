@@ -57,11 +57,6 @@
             </span>
           </section>
         </main>
-        <section class="downloads-copyright1">
-          <span class="downloads-text4">
-            © 2022 latitude. All Rights Reserved.
-          </span>
-        </section>
       </div>
     </footer>
     <div>
