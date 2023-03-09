@@ -1,9 +1,9 @@
 {
   "name": "zservices-web",
-  "homepage": "www.zservices.tech/zservices-web2",
+  "homepage": "www.zservices.tech",
   "version": "0.1.0",
-  "description": "A simple starter to get up and developing quickly with Gridsome",
-  "author": "teleportHQ",
+  "description": "ZServices Website",
+  "author": "volkux",
   "private": true,
   "scripts": {
     "develop": "gridsome develop",
