@@ -38,9 +38,11 @@
           <span>Need any help?</span>
           <br />
         </span>
-        <div class="home-contact-support">
-          <p class="home-text07">Contact support -&gt;</p>
-        </div>
+        <router-link to="/contact" class="home-navlink">
+          <div class="home-contact-support">
+            <p class="home-text07">Contact support -&gt;</p>
+          </div>
+        </router-link>
       </div>
     </section>
     <footer class="home-footer">
@@ -215,6 +217,9 @@ export default {
   font-family: Poppins;
   line-height: 24px;
 }
+.home-navlink {
+  display: contents;
+}
 .home-contact-support {
   gap: var(--dl-space-space-oneandhalfunits);
   cursor: pointer;
@@ -225,6 +230,7 @@ export default {
   flex-direction: column;
   padding-bottom: var(--dl-space-space-halfunit);
   justify-content: center;
+  text-decoration: none;
   border-bottom-width: 1px;
 }
 .home-contact-support:hover {

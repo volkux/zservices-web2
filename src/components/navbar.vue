@@ -4,7 +4,11 @@
       <img :alt="image_alt2" :src="image_src2" class="navbar-branding-logo" />
     </router-link>
     <div class="navbar-nav-content">
-      <div class="navbar-nav-links"><span class="nav-link">Contact Us</span></div>
+      <div class="navbar-nav-links">
+        <router-link to="/contact" class="navbar-link nav-link">
+          Contact Us
+        </router-link>
+      </div>
       <router-link to="/downloads" class="navbar-navlink1">
         <div class="navbar-get-started get-started">
           <span class="navbar-text">Get the Extension</span>
@@ -122,6 +126,9 @@ export default {
   align-items: flex-start;
   border-color: transparent;
 }
+.navbar-link {
+  text-decoration: none;
+}
 .navbar-navlink1 {
   display: contents;
 }
@@ -138,6 +145,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
+
 
 
 @media(max-width: 767px) {

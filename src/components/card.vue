@@ -85,11 +85,11 @@ export default {
 
 
 @media(max-width: 991px) {
-  .card-root-class-name1 {
+  .card-root-class-name {
     flex: 0 0 auto;
     width: 100%;
   }
-  .card-root-class-name {
+  .card-root-class-name1 {
     flex: 0 0 auto;
     width: 100%;
   }

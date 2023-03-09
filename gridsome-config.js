@@ -8,6 +8,6 @@
 siteUrl: 'www.zservices.tech'
 
 module.exports = {
-  siteName: "TeleportProject",
+  siteName: "Gridsome",
   plugins: []
 };
