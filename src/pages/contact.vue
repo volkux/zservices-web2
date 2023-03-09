@@ -42,9 +42,6 @@
             </span>
           </section>
         </main>
-        <section class="contact-copyright1">
-          <span class="contact-text5">© 2022 latitude. All Rights Reserved.</span>
-        </section>
       </div>
     </footer>
     <div>
