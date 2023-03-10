@@ -51,6 +51,11 @@
             </header>
             <header class="downloads-categories"></header>
           </div>
+          <section class="downloads-copyright">
+            <span class="downloads-text3">
+              © 2022 ZServices. All Rights Reserved.
+            </span>
+          </section>
         </main>
         <section class="downloads-copyright1">
           <span class="downloads-text4">

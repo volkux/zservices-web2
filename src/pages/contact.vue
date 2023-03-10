@@ -36,6 +36,11 @@
             </header>
             <header class="contact-categories"></header>
           </div>
+          <section class="contact-copyright">
+            <span class="contact-text4">
+              © 2022 ZServices. All Rights Reserved.
+            </span>
+          </section>
         </main>
         <section class="contact-copyright1">
           <span class="contact-text5">© 2022 ZServices. All Rights Reserved.</span>
