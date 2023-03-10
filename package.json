@@ -17,5 +17,8 @@
     "gh-pages": "^5.0.0",
     "gridsome": "^0.7.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@hint/configuration-web-recommended": "^8.2.16",
+    "hint": "^7.1.3"
+  }
 }

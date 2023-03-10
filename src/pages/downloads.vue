@@ -1,5 +1,8 @@
 <template>
   <div class="downloads-container">
+    <head>
+      <link rel="shortcut icon" type="image/png" href="/static/favicon.png"/>
+    </head>
     <app-navbar rootClassName="navbar-root-class-name1"></app-navbar>
     <section class="downloads-section">
       <main class="downloads-content">

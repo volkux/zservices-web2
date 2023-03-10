@@ -1,5 +1,8 @@
 <template>
   <div class="home-container">
+    <head>
+      <link rel="shortcut icon" type="image/png" href="/static/favicon.png"/>
+    </head>
     <app-navbar rootClassName="navbar-root-class-name"></app-navbar>
     <section class="home-section">
       <header class="home-header">

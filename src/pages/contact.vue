@@ -1,5 +1,8 @@
 <template>
   <div class="contact-container">
+    <head>
+      <link rel="shortcut icon" type="image/png" href="/static/favicon.png"/>
+    </head>
     <app-navbar rootClassName="navbar-root-class-name2"></app-navbar>
     <section class="contact-section">
       <h1 class="contact-text">EMAIL ZSERVICE</h1>
