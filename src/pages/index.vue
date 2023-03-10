@@ -64,11 +64,10 @@
             <header class="home-categories"></header>
           </div>
           <section class="home-copyright">
-            <span class="home-text09">
-              © 2022 ZServices. All Rights Reserved.
-            </span>
-          </section>
         </main>
+        <section class="home-copyright1">
+          <span class="home-text10">© 2022 ZServices. All Rights Reserved.</span>
+        </section>
       </div>
     </footer>
   </div>

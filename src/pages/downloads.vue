@@ -28,7 +28,7 @@
         </header>
         <img
           alt="image"
-          src="/playground_assets/screenshot%202023-01-23%201702191-1200w.png"
+          src="/playground_assets/spaceman-1200w.png"
           class="downloads-image"
         />
       </main>
@@ -51,12 +51,12 @@
             </header>
             <header class="downloads-categories"></header>
           </div>
-          <section class="downloads-copyright">
-            <span class="downloads-text3">
-              © 2022 ZServices. All Rights Reserved.
-            </span>
-          </section>
         </main>
+        <section class="downloads-copyright1">
+          <span class="downloads-text4">
+            © 2022 ZServices. All Rights Reserved.
+          </span>
+        </section>
       </div>
     </footer>
     <div>
