@@ -8,12 +8,12 @@
       <h1 class="contact-text">EMAIL ZSERVICE</h1>
       <main class="contact-content">
         <div class="contact-buttons">
-          <a href="mailto:volkux@zservices.tech?subject=" class="contact-link">
+          <a href="mailto:volkux@zservices.gg?subject=" class="contact-link">
             <div class="contact-ios button">
               <span class="contact-text1">Email volkux</span>
             </div>
           </a>
-          <a href="mailto:zshoopy@zservices.tech?subject=" class="contact-link1">
+          <a href="mailto:zshoopy@zservices.gg?subject=" class="contact-link1">
             <div class="contact-android button">
               <span class="contact-text2">Email zshoopy</span>
             </div>
@@ -33,7 +33,7 @@
                   class="contact-branding"
                 />
                 <span class="contact-text3">
-                  ZServices brought to you by zshoopy and volkux.
+                  ZSERVICES brought to you by zshoopy and volkux.
                 </span>
               </div>
             </header>
